@@ -14,7 +14,7 @@ The connection guide below will set you up with the `vanstolk` meeting room but 
 
 # Browser
 
-- Go to `https://zhum.xyz`. _Make sure there is a `s` after `http`, and there is no `www` preceeding the url_.
+- Go to https://zhum.xyz. _Make sure there is a `s` after `http`, and there is no `www` preceeding the url_.
 
 <p align="center">
 <img src="./assets/Screen Shot 2020-04-11 at 3.38.42 PM.png" width="350">
