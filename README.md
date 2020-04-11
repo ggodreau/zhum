@@ -1,3 +1,26 @@
+# Logging on to the Most Awesome Conferencing Service
+
+[Desktop Browser](#browser)
+[Android](#android)
+[iOS](#ios)
+
+# Browser
+
+- Go to `https://zhum.xyz`. _Make sure there is a `s` after `http`, and there is no `www` preceeding the url_.
+
+<p align="center">
+<img src="./assets/Screen Shot 2020-04-11 at 3.38.42 PM" width="350">
+</p>
+
+- At the 'Start a new meeting' prompt, type `vanstolk`. Hit `Go`.
+
+<p align="center">
+<img src="./assets/Screen Shot 2020-04-11 at 3.39.14 PM" width="350">
+</p>
+
+- Allow access to the camera and microphone.
+
+
 # Android
 
 - Download [jitsi meet](https://play.google.com/store/apps/details?id=org.jitsi.meet&hl=en_US) from the google play store.
@@ -41,6 +64,7 @@
 <p align="center">
 <img src="./assets/Screenshot_20200411-132353.jpg" width="350">
 </p>
+
 
 # iOS
 
