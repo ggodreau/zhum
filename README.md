@@ -1,21 +1,29 @@
 # Logging on to the Most Awesome Conferencing Service
 
-[Desktop Browser](#browser)
-[Android](#android)
-[iOS](#ios)
+Welcome to my video conferencing server, _zhum_. This is not to be confused with [Zoom](https://www.zoom.com), an inferior and big brotherish service that spies on you and sells your data.
+
+This server runs [Jitsi](https://jitsi.org/), an open-source WebRTC server that is encrypted and self-hosted by moi right here in Austin, TX.
+
+The connection guide below will set you up with the `vanstolk` meeting room but you are welcome to create your own room to meet with friends as well if you'd like.
+
+#### How to Connect
+
+- [Desktop Browser](#browser)
+- [Android](#android)
+- [iOS](#ios)
 
 # Browser
 
 - Go to `https://zhum.xyz`. _Make sure there is a `s` after `http`, and there is no `www` preceeding the url_.
 
 <p align="center">
-<img src="./assets/Screen Shot 2020-04-11 at 3.38.42 PM" width="350">
+<img src="./assets/Screen Shot 2020-04-11 at 3.38.42 PM.png" width="350">
 </p>
 
 - At the 'Start a new meeting' prompt, type `vanstolk`. Hit `Go`.
 
 <p align="center">
-<img src="./assets/Screen Shot 2020-04-11 at 3.39.14 PM" width="350">
+<img src="./assets/Screen Shot 2020-04-11 at 3.39.14 PM.png" width="350">
 </p>
 
 - Allow access to the camera and microphone.
